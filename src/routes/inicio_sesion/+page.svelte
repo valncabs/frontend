@@ -60,6 +60,9 @@
   }
 </script>
 
+<head>
+  <title>FindPaw - Inicio de Sesión</title>
+</head>
 <div class="container-fluid min-vh-100 p-0">
   <div class="row g-0 min-vh-100">
 

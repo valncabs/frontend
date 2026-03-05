@@ -79,6 +79,9 @@
   }
 </script>
 
+<head>
+  <title>FindPaw - Registro</title>
+</head>
 <div
   class="container-fluid min-vh-100 d-flex justify-content-center align-items-center bg-image"
 >
