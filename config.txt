@@ -1,0 +1,5 @@
+npx sv create my-app
+npm install jwt-decode
+npm install jspdf jspdf-autotable
+cd my-app
+npm run dev
