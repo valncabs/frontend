@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "svelte-simple-datatables": "^0.3.1"
+  }
+}
