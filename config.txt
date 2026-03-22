@@ -3,4 +3,3 @@ npm install jwt-decode
 npm install jspdf jspdf-autotable
 cd my-app
 npm run dev
-npm install svelte-simple-datatables
