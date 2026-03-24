@@ -1,5 +1,7 @@
 npx sv create my-app
 npm install jwt-decode
 npm install jspdf jspdf-autotable
+pip install requests
+npm install leaflet
 cd my-app
 npm run dev
